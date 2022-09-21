@@ -8,7 +8,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="-201.108" fovmode="0">
-      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <start projection="4" tilt="6.0326" fov="55.0488" pan="159.256"/>
       <flyin projection="9" tilt="-90" fov="170" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
@@ -22,7 +22,7 @@
       <hotspot id="Point03" target="$fwd" tilt="-3.78" title="IMG_20220801_102931_00_121.insp" description="" skinid="ht_node" pan="-193.924" url="{node23}" distance="11.2709"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -46,7 +46,7 @@
       <hotspot id="Point01" target="$fwd" tilt="-7.37" title="IMG_20220801_092917_00_099.insp" description="" skinid="ht_node" pan="99.0327" url="{node1}" distance="20.022"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -70,7 +70,7 @@
       <hotspot id="Point01" target="$fwd" tilt="6.07" title="IMG_20220801_092917_00_099.insp" description="" skinid="ht_node" pan="-91.9305" url="{node1}" distance="15.8794"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -94,7 +94,7 @@
       <hotspot id="Point01" target="$fwd" tilt="-3.09" title="IMG_20220801_104209_00_143.insp" description="" skinid="ht_node" pan="-193.105" url="{node45}" distance="5.33132"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -118,7 +118,7 @@
       <hotspot id="Point01" target="$fwd" tilt="-11.19" title="IMG_20220801_104231_00_144.insp" description="" skinid="ht_node" pan="-355.409" url="{node46}" distance="6.06471"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -142,7 +142,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103808_00_136.insp" description="" skinid="ht_node" pan="40.4702" url="{node38}" distance="5.32542"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -166,7 +166,7 @@
       <hotspot id="Point01" target="-1.5/-14.5/100.0" tilt="-4" title="IMG_20220801_094701_00_106.insp" description="" skinid="ht_node" pan="-99.78" url="{node8}" distance="2.66398"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -188,10 +188,10 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="-86.0/-14.4/100.0" tilt="-6.09" title="IMG_20220801_094737_00_107.insp" description="" skinid="ht_node" pan="-360" url="{node9}" distance="2.05258"/>
-      <hotspot id="Point02" target="$fwd" tilt="0" title="Chemistry Laboratory" description="" skinid="ht_node" pan="-110.021" url="{node7}" distance="2.66398"/>
+      <hotspot id="Point02" target="$fwd" tilt="-7.07" title="Chemistry Laboratory" description="" skinid="ht_node" pan="-79.8814" url="{node7}" distance="2.66398"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -212,11 +212,11 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103832_00_137.insp" description="" skinid="ht_node" pan="-86.9511" url="{node39}" distance="2.34163"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="2nd Floor" description="" skinid="ht_node" pan="-83.5639" url="{node39}" distance="3.99538"/>
       <hotspot id="Point02" target="$fwd" tilt="-9.41" title="IMG_20220801_094701_00_106.insp" description="" skinid="ht_node" pan="96.0356" url="{node8}" distance="2.05258"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -239,7 +239,7 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -262,7 +262,7 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -285,7 +285,7 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -308,7 +308,7 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -331,7 +331,7 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -348,14 +348,14 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="Audio/Visual Room" copyright="" author="" datetime="1 Aug 2022 9:53 am" source="" latitude="8.65498671" customnodeid="" altitude="31.90" tags="highlights|Jasaan" description="" comment="" heading="-90.5855" longitude="124.75379794" nodeid="node15" info=""/>
+    <userdata title="Audio/Visual Room" copyright="" author="" datetime="1 Aug 2022 9:53 am" source="" latitude="8.65499135" customnodeid="" altitude="31.90" tags="highlights|Jasaan" description="" comment="" heading="-90.5855" longitude="124.75379056" nodeid="node15" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="-3.61" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="-259.174" url="{node41}" distance="5.82683"/>
+      <hotspot id="Point01" target="$fwd" tilt="-3.61" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="-259.174" url="{node41}" distance="7.61295"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -377,10 +377,10 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-6.07" title="IMG_20220801_104418_00_147.insp" description="" skinid="ht_node" pan="-156.157" url="{node49}" distance="8.81764"/>
-      <hotspot id="Point02" target="$fwd" tilt="-4.7" title="IMG_20220801_104305_00_145.insp" description="" skinid="ht_node" pan="-59.082" url="{node47}" distance="8.04153"/>
+      <hotspot id="Point02" target="$fwd" tilt="-4.7" title="New Building 2nd Floor" description="" skinid="ht_node" pan="-59.082" url="{node47}" distance="8.04153"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -401,10 +401,10 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="-7.48" title="IMG_20220801_103125_00_124.insp" description="" skinid="ht_node" pan="68.1887" url="{node26}" distance="4.26459"/>
+      <hotspot id="Point01" target="$fwd" tilt="-7.48" title="New Building Ground Floor" description="" skinid="ht_node" pan="68.1887" url="{node26}" distance="4.26459"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -427,7 +427,7 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -444,14 +444,14 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="Computer Laboratory" copyright="" author="" datetime="1 Aug 2022 10:06 am" source="" latitude="8.65498580" customnodeid="" altitude="33.10" tags="Jasaan" description="" comment="" heading="-87.4585" longitude="124.75389307" nodeid="node19" info=""/>
+    <userdata title="Computer Laboratory" copyright="" author="" datetime="1 Aug 2022 10:06 am" source="" latitude="8.65498580" customnodeid="" altitude="33.10" tags="highlights|Jasaan" description="" comment="" heading="-87.4585" longitude="124.75389307" nodeid="node19" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-4.43" title="IMG_20220801_103535_00_131.insp" description="" skinid="ht_node" pan="-188.627" url="{node33}" distance="3.72248"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -468,14 +468,14 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="Computer Laboratory" copyright="" author="" datetime="1 Aug 2022 10:07 am" source="" latitude="8.65499096" customnodeid="" altitude="32.90" tags="Jasaan" description="" comment="" heading="79.0082" longitude="124.75395812" nodeid="node20" info=""/>
+    <userdata title="Computer Laboratory" copyright="" author="" datetime="1 Aug 2022 10:07 am" source="" latitude="8.65499096" customnodeid="" altitude="32.90" tags="highlights|Jasaan" description="" comment="" heading="79.0082" longitude="124.75395812" nodeid="node20" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103535_00_131.insp" description="" skinid="ht_node" pan="172.869" url="{node33}" distance="3.4519"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -499,7 +499,7 @@
       <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103612_00_132.insp" description="" skinid="ht_node" pan="-83.7067" url="{node34}" distance="5.61383"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -510,19 +510,20 @@
       <level height="380" width="380" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="108.878" fovmode="0">
+    <view pannorth="93.5166" fovmode="0">
       <start projection="4" tilt="0" fov="100" pan="0"/>
       <flyin projection="9" tilt="-90" fov="170" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_101031_00_120.insp" copyright="" author="" datetime="1 Aug 2022 10:10 am" source="" latitude="8.65499732" customnodeid="" altitude="31.30" tags="Jasaan" description="" comment="" heading="108.878" longitude="124.75412116" nodeid="node22" info=""/>
+    <userdata title="IMG_20220801_101031_00_120.insp" copyright="" author="" datetime="1 Aug 2022 10:10 am" source="" latitude="8.65498075" customnodeid="" altitude="31.30" tags="Jasaan" description="" comment="" heading="93.5166" longitude="124.75413189" nodeid="node22" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" target="23.2/-2.0/100.0" tilt="-1.29" title="IMG_20220801_103635_00_133.insp" description="" skinid="ht_node" pan="280.76" url="{node35}" distance="3.29632"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -545,10 +546,11 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-4.08" title="IMG_20220801_092917_00_099.insp" description="" skinid="ht_node" pan="38.9167" url="{node1}" distance="11.2709"/>
       <hotspot id="Point02" target="$fwd" tilt="2.74" title="IMG_20220801_103058_00_123.insp" description="" skinid="ht_node" pan="250.128" url="{node25}" distance="7.18763"/>
-      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="200.355" url="{node24}" distance="12.896"/>
+      <hotspot id="Point03" target="93.3/-1.1/100.0" tilt="-0.55" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="198.25" url="{node24}" distance="14.4193"/>
+      <hotspot id="Point04" target="157.1/-6.2/108.2" tilt="0.27" title="Basketball Court" description="" skinid="ht_node" pan="140.56" url="{node59}" distance="62.7533"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -565,16 +567,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103019_00_122.insp" copyright="" author="" datetime="1 Aug 2022 10:30 am" source="" latitude="8.65478196" customnodeid="" altitude="28.50" tags="Jasaan" description="" comment="" heading="-201.412" longitude="124.75337271" nodeid="node24" info=""/>
+    <userdata title="IMG_20220801_103019_00_122.insp" copyright="" author="" datetime="1 Aug 2022 10:30 am" source="" latitude="8.65479257" customnodeid="" altitude="28.50" tags="Jasaan" description="" comment="" heading="-201.412" longitude="124.75339149" nodeid="node24" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_102931_00_121.insp" description="" skinid="ht_node" pan="-27.5581" url="{node23}" distance="12.896"/>
-      <hotspot id="Point02" target="$fwd" tilt="1.72" title="IMG_20220801_103125_00_124.insp" description="" skinid="custom_node" pan="-96.55" url="{node26}" distance="6.9632"/>
-      <hotspot id="Point03" target="$fwd" tilt="27.33" title="IMG_20220801_104305_00_145.insp" description="" skinid="custom_node" pan="-122.79" url="{node47}" distance="8.97026"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_102931_00_121.insp" description="" skinid="ht_node" pan="-35.2353" url="{node23}" distance="14.4193"/>
+      <hotspot id="Point02" target="$fwd" tilt="0.36" title="New Building Ground Floor" description="" skinid="custom_node" pan="-105.76" url="{node26}" distance="9.21521"/>
+      <hotspot id="Point03" target="$fwd" tilt="28.97" title="New Building 2nd Floor" description="" skinid="custom_node" pan="-107.67" url="{node47}" distance="10.1243"/>
+      <hotspot id="Point04" target="$fwd" tilt="-0.55" title="IMG_20220801_104606_00_150.insp" description="" skinid="ht_node" pan="-282.554" url="{node52}" distance="15.6"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -598,10 +601,10 @@
       <hotspot id="Point01" target="$fwd" tilt="-15.7" title="IMG_20220801_102931_00_121.insp" description="" skinid="ht_node" pan="-63.1252" url="{node23}" distance="7.18763"/>
       <hotspot id="Point02" target="-68.8/1.7/100.0" tilt="-3.22" title="IMG_20220801_104513_00_149.insp" description="" skinid="ht_node" pan="151.75" url="{node51}" distance="7.85218"/>
       <hotspot id="Point03" target="$fwd" tilt="-9.85" title="IMG_20220801_092917_00_099.insp" description="" skinid="ht_node" pan="249.82" url="{node1}" distance="15.7284"/>
-      <hotspot id="Point04" target="$fwd" tilt="0" title="IMG_20220801_103125_00_124.insp" description="" skinid="ht_node" pan="68.581" url="{node26}" distance="7.39457"/>
+      <hotspot id="Point04" target="$fwd" tilt="0" title="New Building Ground Floor" description="" skinid="ht_node" pan="68.581" url="{node26}" distance="7.39457"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -618,17 +621,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103125_00_124.insp" copyright="" author="" datetime="1 Aug 2022 10:31 am" source="" latitude="8.65477313" customnodeid="" altitude="27.60" tags="Jasaan" description="" comment="" heading="-119.428" longitude="124.75331000" nodeid="node26" info=""/>
+    <userdata title="New Building Ground Floor" copyright="" author="" datetime="1 Aug 2022 10:31 am" source="" latitude="8.65477313" customnodeid="" altitude="27.60" tags="Jasaan" description="" comment="" heading="-119.428" longitude="124.75331000" nodeid="node26" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-6.21" title="IMG_20220801_103058_00_123.insp" description="" skinid="ht_node" pan="-306.13" url="{node25}" distance="7.39457"/>
-      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="-201.322" url="{node24}" distance="6.9632"/>
+      <hotspot id="Point02" target="$fwd" tilt="-9.33" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="-209.272" url="{node24}" distance="9.21521"/>
       <hotspot id="Point03" target="$fwd" tilt="-6.04" title="IMG_20220801_095721_00_115.insp" description="" skinid="custom_node" pan="-29.3353" url="{node17}" distance="4.26459"/>
       <hotspot id="Point04" target="$fwd" tilt="0" title="IMG_20220801_103211_00_125.insp" description="" skinid="ht_node" pan="-115.622" url="{node27}" distance="13.7964"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -649,12 +652,12 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="-0.78" title="IMG_20220801_103125_00_124.insp" description="" skinid="ht_node" pan="-152.026" url="{node26}" distance="13.7964"/>
+      <hotspot id="Point01" target="$fwd" tilt="-0.78" title="New Building Ground Floor" description="" skinid="ht_node" pan="-152.026" url="{node26}" distance="13.7964"/>
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103250_00_126.insp" description="" skinid="ht_node" pan="-65.0307" url="{node28}" distance="8.65414"/>
       <hotspot id="Point03" target="-28.8/8.0/100.0" tilt="-14.12" title="IMG_20220801_104339_00_146.insp" description="" skinid="ht_node" pan="165.36" url="{node48}" distance="8.47249"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -679,7 +682,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103322_00_127.insp" description="" skinid="ht_node" pan="-89.8643" url="{node29}" distance="6.56841"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -704,7 +707,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103250_00_126.insp" description="" skinid="ht_node" pan="170.379" url="{node28}" distance="6.56841"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -726,11 +729,11 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_120924_00_163.insp" description="" skinid="ht_node" pan="273.391" url="{node62}" distance="18.8821"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103438_00_129.insp" description="" skinid="ht_node" pan="94.252" url="{node31}" distance="16.6826"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103438_00_129.insp" description="" skinid="ht_node" pan="94.3981" url="{node31}" distance="16.0949"/>
       <hotspot id="Point03" target="4.0/-4.5/100.0" tilt="-12.73" title="2nd Floor" description="" skinid="custom_node" pan="239.01" url="{node42}" distance="0.422369"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -747,16 +750,16 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103438_00_129.insp" copyright="" author="" datetime="1 Aug 2022 10:34 am" source="" latitude="8.65492729" customnodeid="" altitude="31.20" tags="Jasaan" description="" comment="" heading="-3.28592" longitude="124.75382558" nodeid="node31" info=""/>
+    <userdata title="IMG_20220801_103438_00_129.insp" copyright="" author="" datetime="1 Aug 2022 10:34 am" source="" latitude="8.65492729" customnodeid="" altitude="31.20" tags="Jasaan" description="" comment="" heading="-3.28592" longitude="124.75382022" nodeid="node31" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="Ground Floor" description="" skinid="ht_node" pan="90.7081" url="{node30}" distance="16.6826"/>
-      <hotspot id="Point02" target="$fwd" tilt="-2.04" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="-88.1946" url="{node32}" distance="11.9762"/>
-      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="-173.299" url="{node61}" distance="6.28773"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="Ground Floor" description="" skinid="ht_node" pan="90.8542" url="{node30}" distance="16.0949"/>
+      <hotspot id="Point02" target="$fwd" tilt="-2.04" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="-88.1946" url="{node32}" distance="12.6419"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="-175.762" url="{node61}" distance="8.32793"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -773,17 +776,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103503_00_130.insp" copyright="" author="" datetime="1 Aug 2022 10:35 am" source="" latitude="8.65493246" customnodeid="" altitude="32.00" tags="Jasaan" description="" comment="" heading="107.482" longitude="124.75393440" nodeid="node32" info=""/>
+    <userdata title="IMG_20220801_103503_00_130.insp" copyright="" author="" datetime="1 Aug 2022 10:35 am" source="" latitude="8.65493312" customnodeid="" altitude="32.00" tags="Jasaan" description="" comment="" heading="107.482" longitude="124.75393507" nodeid="node32" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103438_00_129.insp" description="" skinid="ht_node" pan="200.233" url="{node31}" distance="11.9762"/>
-      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103535_00_131.insp" description="" skinid="ht_node" pan="115.079" url="{node33}" distance="6.32805"/>
-      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120800_00_161.insp" description="" skinid="ht_node" pan="-70.0429" url="{node60}" distance="6.51654"/>
-      <hotspot id="Point04" target="$fwd" tilt="0" title="IMG_20220801_103832_00_137.insp" description="" skinid="ht_node" pan="118.536" url="{node39}" distance="1.89206"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103438_00_129.insp" description="" skinid="ht_node" pan="200.421" url="{node31}" distance="12.6419"/>
+      <hotspot id="Point02" target="$fwd" tilt="-0.54" title="IMG_20220801_103535_00_131.insp" description="" skinid="ht_node" pan="110.945" url="{node33}" distance="6.26558"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120800_00_161.insp" description="" skinid="ht_node" pan="-70.7105" url="{node60}" distance="6.58713"/>
+      <hotspot id="Point04" target="$fwd" tilt="-2.35" title="IMG_20220801_103612_00_132.insp" description="" skinid="ht_node" pan="21.8864" url="{node34}" distance="15.0842"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -804,12 +807,12 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="-48.9714" url="{node32}" distance="6.32805"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="-48.215" url="{node32}" distance="6.26558"/>
       <hotspot id="Point02" target="$fwd" tilt="-8.35" title="Computer Laboratory" description="" skinid="custom_node" pan="259.88" url="{node19}" distance="3.72248"/>
       <hotspot id="Point03" target="$fwd" tilt="-9.76" title="Computer Laboratory" description="" skinid="custom_node" pan="2.68" url="{node20}" distance="3.4519"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -832,9 +835,10 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_100907_00_119.insp" description="" skinid="ht_node" pan="-173.701" url="{node21}" distance="5.61383"/>
       <hotspot id="Point02" target="$fwd" tilt="-7.05" title="IMG_20220801_103635_00_133.insp" description="" skinid="ht_node" pan="-261.412" url="{node35}" distance="5.21633"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="-83.9856" url="{node32}" distance="15.0842"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -856,10 +860,11 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-6.36" title="IMG_20220801_103612_00_132.insp" description="" skinid="ht_node" pan="-10.8864" url="{node34}" distance="5.21633"/>
-      <hotspot id="Point02" target="-160.0/3.9/100.0" tilt="-18.33" title="IMG_20220801_103657_00_134.insp" description="" skinid="ht_node" pan="-322.96" url="{node36}" distance="4.62834"/>
+      <hotspot id="Point02" target="-160.0/3.9/100.0" tilt="2.54" title="IMG_20220801_103657_00_134.insp" description="" skinid="ht_node" pan="-304.86" url="{node36}" distance="4.62834"/>
+      <hotspot id="Point03" target="$fwd" tilt="-4.16" title="IMG_20220801_101031_00_120.insp" description="" skinid="ht_node" pan="-232.581" url="{node22}" distance="3.29632"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -880,11 +885,11 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="-35.78" title="IMG_20220801_103635_00_133.insp" description="" skinid="ht_node" pan="236.314" url="{node35}" distance="4.62834"/>
-      <hotspot id="Point02" target="$fwd" tilt="2.26" title="IMG_20220801_103725_00_135.insp" description="" skinid="ht_node" pan="210.464" url="{node37}" distance="4.6357"/>
+      <hotspot id="Point01" target="$fwd" tilt="-37.67" title="IMG_20220801_103635_00_133.insp" description="" skinid="ht_node" pan="251.234" url="{node35}" distance="4.62834"/>
+      <hotspot id="Point02" target="$fwd" tilt="1.99" title="IMG_20220801_103725_00_135.insp" description="" skinid="ht_node" pan="210.724" url="{node37}" distance="4.6357"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -909,7 +914,7 @@
       <hotspot id="Point03" target="$fwd" tilt="-1.93" title="IMG_20220801_103808_00_136.insp" description="" skinid="ht_node" pan="8.83268" url="{node38}" distance="5.10695"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -932,9 +937,10 @@
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-7.21" title="IMG_20220801_103725_00_135.insp" description="" skinid="ht_node" pan="-72.1049" url="{node37}" distance="5.10695"/>
       <hotspot id="Point02" target="$fwd" tilt="-9.61" title="Library" description="" skinid="ht_node" pan="-344.865" url="{node6}" distance="5.32542"/>
+      <hotspot id="Point03" target="$fwd" tilt="-3.99" title="2nd Floor" description="" skinid="ht_node" pan="109.527" url="{node39}" distance="15.114"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -945,22 +951,23 @@
       <level height="380" width="380" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
-    <view pannorth="140.03" fovmode="0">
+    <view pannorth="139.545" fovmode="0">
       <start projection="4" tilt="0" fov="100" pan="0"/>
       <flyin projection="9" tilt="-90" fov="170" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103832_00_137.insp" copyright="" author="" datetime="1 Aug 2022 10:38 am" source="" latitude="8.65494916" customnodeid="" altitude="32.80" tags="Jasaan" description="" comment="" heading="140.03" longitude="124.75393110" nodeid="node39" info=""/>
+    <userdata title="2nd Floor" copyright="" author="" datetime="1 Aug 2022 10:38 am" source="" latitude="8.65493457" customnodeid="" altitude="32.80" tags="Jasaan" description="" comment="" heading="139.545" longitude="124.75393445" nodeid="node39" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="-28.9162" url="{node32}" distance="1.89206"/>
-      <hotspot id="Point02" target="$fwd" tilt="-0.11" title="IMG_20220801_103855_00_138.insp" description="" skinid="ht_node" pan="232.501" url="{node40}" distance="3.1653"/>
-      <hotspot id="Point03" target="$fwd" tilt="-4.59" title="IMG_20220801_094737_00_107.insp" description="" skinid="ht_node" pan="141.111" url="{node9}" distance="2.34163"/>
+      <hotspot id="Point02" target="$fwd" tilt="-0.11" title="IMG_20220801_103855_00_138.insp" description="" skinid="ht_node" pan="232.501" url="{node40}" distance="3.75883"/>
+      <hotspot id="Point03" target="$fwd" tilt="-4.59" title="IMG_20220801_094737_00_107.insp" description="" skinid="ht_node" pan="141.111" url="{node9}" distance="3.99538"/>
+      <hotspot id="Point01" target="$fwd" tilt="-5.74" title="IMG_20220801_103808_00_136.insp" description="" skinid="ht_node" pan="53.5723" url="{node38}" distance="15.114"/>
+      <hotspot id="Point04" target="" tilt="-6.76" title="Basketball Court" description="" skinid="custom_node" pan="-36.84" url="{node59}" distance="15.2572"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -977,15 +984,15 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103855_00_138.insp" copyright="" author="" datetime="1 Aug 2022 10:38 am" source="" latitude="8.65494652" customnodeid="" altitude="32.80" tags="Jasaan" description="" comment="" heading="0" longitude="124.75390243" nodeid="node40" info=""/>
+    <userdata title="IMG_20220801_103855_00_138.insp" copyright="" author="" datetime="1 Aug 2022 10:38 am" source="" latitude="8.65493127" customnodeid="" altitude="32.80" tags="Jasaan" description="" comment="" heading="0" longitude="124.75390042" nodeid="node40" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="-2.39" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="80.6623" url="{node41}" distance="11.3081"/>
-      <hotspot id="Point02" target="$fwd" tilt="-5.19" title="IMG_20220801_103832_00_137.insp" description="" skinid="ht_node" pan="-94.6687" url="{node39}" distance="3.1653"/>
+      <hotspot id="Point01" target="$fwd" tilt="-2.39" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="80.6623" url="{node41}" distance="9.92035"/>
+      <hotspot id="Point02" target="$fwd" tilt="-5.19" title="2nd Floor" description="" skinid="ht_node" pan="-94.6687" url="{node39}" distance="3.75883"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1002,16 +1009,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_103921_00_139.insp" copyright="" author="" datetime="1 Aug 2022 10:39 am" source="" latitude="8.65493436" customnodeid="" altitude="32.70" tags="Jasaan" description="" comment="" heading="166.746" longitude="124.75380030" nodeid="node41" info=""/>
+    <userdata title="IMG_20220801_103921_00_139.insp" copyright="" author="" datetime="1 Aug 2022 10:39 am" source="" latitude="8.65492574" customnodeid="" altitude="32.70" tags="Jasaan" description="" comment="" heading="166.746" longitude="124.75381035" nodeid="node41" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="-1.01" title="IMG_20220801_103855_00_138.insp" description="" skinid="ht_node" pan="76.5383" url="{node40}" distance="11.3081"/>
-      <hotspot id="Point02" target="$fwd" tilt="-5.17" title="Audio/Visual Room" description="" skinid="ht_node" pan="163.308" url="{node15}" distance="5.82683"/>
-      <hotspot id="Point03" target="$fwd" tilt="-3.77" title="2nd Floor" description="" skinid="ht_node" pan="257.35" url="{node42}" distance="13.7825"/>
+      <hotspot id="Point01" target="$fwd" tilt="-1.01" title="IMG_20220801_103855_00_138.insp" description="" skinid="ht_node" pan="76.5383" url="{node40}" distance="9.92035"/>
+      <hotspot id="Point02" target="$fwd" tilt="-5.17" title="Audio/Visual Room" description="" skinid="ht_node" pan="163.308" url="{node15}" distance="7.61295"/>
+      <hotspot id="Point03" target="$fwd" tilt="-3.77" title="2nd Floor" description="" skinid="ht_node" pan="257.35" url="{node42}" distance="14.8109"/>
+      <hotspot id="Point04" target="$fwd" tilt="-10.09" title="Basketball Court" description="" skinid="custom_node" pan="358.06" url="{node59}" distance="18.2299"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1033,11 +1041,11 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-2.39" title="IMG_20220801_104036_00_141.insp" description="" skinid="ht_node" pan="273.577" url="{node43}" distance="15.7053"/>
-      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="92.649" url="{node41}" distance="13.7825"/>
+      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="88.4771" url="{node41}" distance="14.8109"/>
       <hotspot id="Point03" target="0.4/-4.4/100.0" tilt="-19.4" title="Ground Floor" description="" skinid="custom_node" pan="244.61" url="{node30}" distance="0.422369"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1062,7 +1070,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_104116_00_142.insp" description="" skinid="ht_node" pan="4.46064" url="{node44}" distance="4.73883"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1086,7 +1094,7 @@
       <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_104036_00_141.insp" description="" skinid="ht_node" pan="-77.8152" url="{node43}" distance="4.73883"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1111,7 +1119,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="Computer Laboratory 2" description="" skinid="ht_node" pan="54.6853" url="{node4}" distance="5.33132"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1133,12 +1141,12 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="33.7/-27.2/78.8" tilt="-9.46" title="IMG_20220801_104339_00_146.insp" description="" skinid="ht_node" pan="273.4" url="{node48}" distance="8.50457"/>
-      <hotspot id="Point02" target="$fwd" tilt="-0.66" title="IMG_20220801_104305_00_145.insp" description="" skinid="ht_node" pan="-42.3629" url="{node47}" distance="8.0696"/>
+      <hotspot id="Point02" target="$fwd" tilt="-0.66" title="New Building 2nd Floor" description="" skinid="ht_node" pan="-42.3629" url="{node47}" distance="8.0696"/>
       <hotspot id="Point03" target="$fwd" tilt="-10.45" title="Computer Laboratory 1" description="" skinid="ht_node" pan="99.1357" url="{node5}" distance="6.06471"/>
       <hotspot id="Point04" target="$fwd" tilt="-4.79" title="IMG_20220801_104209_00_143.insp" description="" skinid="ht_node" pan="45.7517" url="{node45}" distance="8.38372"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1155,17 +1163,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_104305_00_145.insp" copyright="" author="" datetime="1 Aug 2022 10:43 am" source="" latitude="8.65483126" customnodeid="" altitude="-67.10" tags="Jasaan" description="" comment="" heading="85.0507" longitude="124.75330812" nodeid="node47" info=""/>
+    <userdata title="New Building 2nd Floor" copyright="" author="" datetime="1 Aug 2022 10:43 am" source="" latitude="8.65483126" customnodeid="" altitude="-67.10" tags="Jasaan" description="" comment="" heading="85.0507" longitude="124.75330812" nodeid="node47" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="-2.28" title="IMG_20220801_104418_00_147.insp" description="" skinid="ht_node" pan="-93.4726" url="{node49}" distance="14.3068"/>
       <hotspot id="Point02" target="$fwd" tilt="0" title="Classroom" description="" skinid="ht_node" pan="231.903" url="{node16}" distance="8.04153"/>
-      <hotspot id="Point03" target="$fwd" tilt="-26.46" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="-29.8548" url="{node24}" distance="8.97026"/>
+      <hotspot id="Point03" target="$fwd" tilt="-26.46" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="-29.8548" url="{node24}" distance="10.1243"/>
       <hotspot id="Point04" target="$fwd" tilt="-7.19" title="IMG_20220801_104231_00_144.insp" description="" skinid="ht_node" pan="93.1738" url="{node46}" distance="8.0696"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1190,7 +1198,7 @@
       <hotspot id="Point02" target="-23.1/-17.5/100.0" tilt="-27.91" title="IMG_20220801_103211_00_125.insp" description="" skinid="ht_node" pan="374.69" url="{node27}" distance="8.47249"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1211,12 +1219,12 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point02" target="$fwd" tilt="-4.43" title="IMG_20220801_104305_00_145.insp" description="" skinid="ht_node" pan="-100.768" url="{node47}" distance="14.3068"/>
+      <hotspot id="Point02" target="$fwd" tilt="-4.43" title="New Building 2nd Floor" description="" skinid="ht_node" pan="-100.768" url="{node47}" distance="14.3068"/>
       <hotspot id="Point03" target="$fwd" tilt="-4.69" title="Classroom" description="" skinid="custom_node" pan="-63.23" url="{node16}" distance="8.81764"/>
       <hotspot id="Point04" target="$fwd" tilt="0" title="IMG_20220801_104444_00_148.insp" description="" skinid="ht_node" pan="-16.1715" url="{node50}" distance="6.9484"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1241,7 +1249,7 @@
       <hotspot id="Point02" target="$fwd" tilt="-6.19" title="IMG_20220801_104418_00_147.insp" description="" skinid="ht_node" pan="-102.967" url="{node49}" distance="6.9484"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1266,7 +1274,7 @@
       <hotspot id="Point03" target="-71.7/-29.8/100.0" tilt="9.1" title="IMG_20220801_104444_00_148.insp" description="" skinid="ht_node" pan="293.82" url="{node50}" distance="1.04318"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1288,9 +1296,11 @@
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot id="Point01" target="$fwd" tilt="1.72" title="IMG_20220801_120924_00_163.insp" description="" skinid="ht_node" pan="-176.767" url="{node62}" distance="9.46935"/>
+      <hotspot id="Point02" target="$fwd" tilt="-2.63" title="IMG_20220801_103019_00_122.insp" description="" skinid="ht_node" pan="-78.1457" url="{node24}" distance="15.6"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="-268.102" url="{node61}" distance="33.2152"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1314,7 +1324,7 @@
       <hotspot id="Point02" target="$fwd" tilt="-0.75" title="IMG_20220801_111531_00_152.insp" description="" skinid="ht_node" pan="94.6304" url="{node54}" distance="15.328"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1339,7 +1349,7 @@
       <hotspot id="Point02" target="$fwd" tilt="-1.05" title="IMG_20220801_112503_00_153.insp" description="" skinid="ht_node" pan="93.1784" url="{node55}" distance="31.2194"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1364,7 +1374,7 @@
       <hotspot id="Point03" target="$fwd" tilt="-0.96" title="IMG_20220801_111531_00_152.insp" description="" skinid="ht_node" pan="-153.251" url="{node54}" distance="31.2194"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1389,7 +1399,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_112503_00_153.insp" description="" skinid="ht_node" pan="-137.806" url="{node55}" distance="30.5632"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1414,7 +1424,7 @@
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_112555_00_154.insp" description="" skinid="ht_node" pan="-68.0186" url="{node56}" distance="105.753"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1438,7 +1448,7 @@
       <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_112903_00_155.insp" description="" skinid="ht_node" pan="136.831" url="{node57}" distance="121.817"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1455,15 +1465,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="Basketball Court" copyright="" author="" datetime="1 Aug 2022 12:07 pm" source="" latitude="8.65479869" customnodeid="" altitude="32.70" tags="Jasaan" description="" comment="" heading="-118.462" longitude="124.75391516" nodeid="node59" info=""/>
+    <userdata title="Basketball Court" copyright="" author="" datetime="1 Aug 2022 12:07 pm" source="" latitude="8.65479869" customnodeid="" altitude="32.70" tags="highlights|Jasaan" description="" comment="" heading="-118.462" longitude="124.75391516" nodeid="node59" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="-71.2557" url="{node61}" distance="11.9336"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="-61.3497" url="{node61}" distance="11.1299"/>
       <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_120800_00_161.insp" description="" skinid="ht_node" pan="-134.45" url="{node60}" distance="8.70062"/>
+      <hotspot id="Point03" target="$fwd" tilt="-2.12" title="IMG_20220801_102931_00_121.insp" description="" skinid="ht_node" pan="-20.9113" url="{node23}" distance="62.7533"/>
+      <hotspot id="Point04" target="$fwd" tilt="0" title="IMG_20220801_103921_00_139.insp" description="" skinid="ht_node" pan="-79.2628" url="{node41}" distance="18.2299"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1484,12 +1496,13 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="116.656" url="{node32}" distance="6.51654"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="IMG_20220801_103503_00_130.insp" description="" skinid="ht_node" pan="115.988" url="{node32}" distance="6.58713"/>
       <hotspot id="Point02" target="$fwd" tilt="0" title="Basketball Court" description="" skinid="ht_node" pan="278.193" url="{node59}" distance="8.70062"/>
-      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="205.5" url="{node61}" distance="11.1563"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_120832_00_162.insp" description="" skinid="ht_node" pan="215.36" url="{node61}" distance="11.9697"/>
+      <hotspot id="Point04" target="$fwd" tilt="19.57" title="2nd Floor" description="" skinid="custom_node" pan="116.62" url="{node39}" distance="6.75073"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1506,16 +1519,17 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max scaletofit="1" tilt="90" fov="120" pan="360" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata title="IMG_20220801_120832_00_162.insp" copyright="" author="" datetime="1 Aug 2022 12:08 pm" source="" latitude="8.65487160" customnodeid="" altitude="32.30" tags="Jasaan" description="" comment="" heading="-193.182" longitude="124.75383550" nodeid="node61" info=""/>
+    <userdata title="IMG_20220801_120832_00_162.insp" copyright="" author="" datetime="1 Aug 2022 12:08 pm" source="" latitude="8.65485304" customnodeid="" altitude="32.30" tags="Jasaan" description="" comment="" heading="-193.182" longitude="124.75383014" nodeid="node61" info=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" textcolor="0x000000" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" border="1" width="180" bordercolor="0x000000" background="1" backgroundalpha="1"/>
       <polystyle mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot id="Point01" target="$fwd" tilt="0" title="Basketball Court" description="" skinid="ht_node" pan="-325.976" url="{node59}" distance="11.9336"/>
-      <hotspot id="Point02" target="$fwd" tilt="0" title="IMG_20220801_120800_00_161.insp" description="" skinid="ht_node" pan="-281.863" url="{node60}" distance="11.1563"/>
-      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_103438_00_129.insp" description="" skinid="ht_node" pan="-183.195" url="{node31}" distance="6.28773"/>
+      <hotspot id="Point01" target="$fwd" tilt="0" title="Basketball Court" description="" skinid="ht_node" pan="-316.07" url="{node59}" distance="11.1299"/>
+      <hotspot id="Point02" target="$fwd" tilt="-2.83" title="IMG_20220801_120800_00_161.insp" description="" skinid="ht_node" pan="-281.943" url="{node60}" distance="11.9697"/>
+      <hotspot id="Point03" target="$fwd" tilt="0" title="IMG_20220801_103438_00_129.insp" description="" skinid="ht_node" pan="-185.658" url="{node31}" distance="8.32793"/>
+      <hotspot id="Point04" target="$fwd" tilt="-1.06" title="IMG_20220801_104606_00_150.insp" description="" skinid="ht_node" pan="-100.34" url="{node52}" distance="33.2152"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
@@ -1541,7 +1555,7 @@
       <hotspot id="Point03" target="$fwd" tilt="-6.64" title="IMG_20220801_104606_00_150.insp" description="" skinid="ht_node" pan="-249.806" url="{node52}" distance="9.46935"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="1" zoomspeed="2" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
+    <transition zoomafterinfov="90" zoomfov="20" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1" blendtime="0.5" zoomspeed="10" zoomin="0" type="crossdissolve" zoomout="0" zoomafteroutfov="20"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
     <control lockedkeyboard="0" invertcontrol="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" rubberband="0" hideabout="1" simulatemass="1" lockedmouse="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0"/>
   </panorama>
